@@ -1,0 +1,52 @@
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+}
+
+.invitation {
+    width: 600px;
+    max-width: 90%;
+    margin: 20px auto;
+    padding: 30px;
+    border: 2px solid navy;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+h2 {
+    color: darkred;
+    font-size: 30px;
+    margin: 15px 0;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+}
