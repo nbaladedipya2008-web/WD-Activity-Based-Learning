@@ -28,6 +28,6 @@ The following table lists the 3 selected case studies.
 
 S.No.     Case Study Title 
 
-1.     College Event Invitation Webpage 
-2.     Student Information Cards
-3.     Seminar Registration 2026-Event Website 
+1    College Event Invitation Webpage 
+2     Student Information Cards
+3     Seminar Registration 2026-Event Website 
